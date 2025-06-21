@@ -1,0 +1,1 @@
+# install-addon.sh
